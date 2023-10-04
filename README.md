@@ -9,7 +9,7 @@ Welcome to the Devtron Blogathon Contributions section! You can contribute to De
 
 - **Love for Writing**: Join our Blogathon and share your experiences on Cloud-native, Devtron, and Kubernetes. 
 
-- **Documentation Contributions**: You can also contribute to our Use-Cases section in the documentation. Contribute blogs on topics that help the Devtron community. Follow the steps outlined in the repo to get started.
+- **Documentation Contributions**: You can also contribute to our [Use-Cases section](https://docs.devtron.ai/resources/use-cases) in the documentation. Contribute blogs on topics that help the Devtron community. Follow the steps outlined in the repo to get started.
 
 - **Earn Rewards**: The top 10 blogs will receive exclusive Devtron swag and gain valuable experience in the open-source community.
 
