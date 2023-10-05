@@ -46,7 +46,6 @@ Here is the list of few blogs that you can start with and contribute to Devtron 
 - How to deploy a microservice in multiple clusters using Devtron
 - Configure and deploy an application with HAproxy using Devtron
 - How to deploy your custom charts using Devtron
-- How to install Devtron on Linode/DO/Vultr/Kamatera/OVHcloud/Oracle VM
 - How Helmfile and Devtron chart groups are different
 - How to setup GitOps with Devtron in 2 steps
 - How to integrate external Logging/Monitoring stack with Devtron
