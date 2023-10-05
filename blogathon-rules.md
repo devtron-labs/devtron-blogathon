@@ -5,6 +5,7 @@
 - Write technical blogs on all things Cloud-native, Devtron and Kubernetes. 
 - You are allowed to publish any number of blogs. There are no restrictions.
 - The publishing platform can be of your choice but we strongly recommend you publishing on Popular websites, blogsites. You can also publish on [Container Talks](https://medium.com/container-talks) or [Dev.to](https://dev.to/devtron_)
+- Please create an issue [here](https://github.com/devtron-labs/devtron-blogathon/issues/new) so that we know which blog are you working on.
 - You can submit blog entries only as an individual. Team participation is not eligible.
 - Top 10 blogs will be shared from Devtron’s official social handles.
 
