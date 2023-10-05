@@ -36,7 +36,7 @@ Get feedback on your proposal.
 
 ## Content Contributions (Use Case Section)
 
-Here is the list of few blogs that you can start with and contribute to Devtron Community. Feel free to reach-out the team on Discord Community for any doubts.
+Here is the list of few blogs that you can start with and contribute to Devtron Community. If you have any other use case, feel free to [raise an issue](https://github.com/devtron-labs/devtron-blogathon/issues/new). Feel free to reach-out the team on Discord Community for any doubts.
 
 - How to setup Https for Devtron dashboard using nginx/traefik/haproxy/alb
 - Deploy a MEAN Stack using Devtron
