@@ -36,7 +36,7 @@ Get feedback on your proposal.
 
 ## Content Contributions (Use Case Section)
 
-Here is the list of few blogs that you can start with and contribute to Devtron Community. If you have any other use case, feel free to [raise an issue](https://github.com/devtron-labs/devtron-blogathon/issues/new). Feel free to reach-out the team on Discord Community for any doubts.
+Here is the list of few blogs that you can start with and contribute to Devtron Community. If you have any other use case, feel free to [raise an issue](https://github.com/devtron-labs/devtron/issues/new/choose). Feel free to reach-out the team on Discord Community for any doubts.
 
 - How to setup Https for Devtron dashboard using nginx/traefik/haproxy/alb
 - Deploy a MEAN Stack using Devtron
@@ -52,3 +52,21 @@ Here is the list of few blogs that you can start with and contribute to Devtron 
 - How to add Hashicorp secrets in Kubernetes using Devtron
 - How to run sonarqube as plugin with Devtron
 - How to setup Global Configurations in Devtron
+- How to do vulnerability scanning with Devtron 
+- For eg. Sub part: Comparison with Trivvy and Claire 
+- How you can configure plugins in your deployment pipeline with devtron
+- Time based scaling up and down during attendance 
+- Manage external secret through Devtron 
+- How to get notified when a build/deployment triggers/fails/success
+- Create multi-architecture container images using remote builds with kubernetes driver
+- Onboard your existing application faster with Scoped variables in devtron 
+- Debug your application with Ephemeral Containers 
+- Adding extra metadata to images
+- Maintain versioning for your microservices using Image Tagging feature
+- Upgrading Kubernetes Cluster with the help of Silver Surfer
+- Build and Deploy Multiple applications with Application Group
+- Pull in OCI Registry
+- Visualize k8s resources via easy to use dashboard
+- Monitor your application performance and manage key metrics with devtron
+- Deploying a helm chart with devtron dashboard 
+
