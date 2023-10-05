@@ -11,7 +11,7 @@ Welcome to the Devtron Blogathon Contributions section! You can contribute to De
 
 - **Documentation Contributions**: You can also contribute to our [Use-Cases section](https://docs.devtron.ai/resources/use-cases) in the documentation. Contribute blogs on topics that help the Devtron community. Follow the steps outlined in the repo to get started.
 
-- **Earn Rewards**: The top 10 blogs will receive exclusive Devtron swag and gain valuable experience in the open-source community. Fill tis [Contributor form](https://docs.google.com/forms/d/e/1FAIpQLSeNRM4CmYZRc29XVv48LUYGRYZJhfapXrZi2u4cx2toNE2UjQ/viewform) after your submissions.
+- **Earn Rewards**: The top 10 blogs will receive exclusive Devtron swag and gain valuable experience in the open-source community. Fill this [Contributor form](https://docs.google.com/forms/d/e/1FAIpQLSeNRM4CmYZRc29XVv48LUYGRYZJhfapXrZi2u4cx2toNE2UjQ/viewform) after your submissions.
 
 ## Get Started Today!
 
